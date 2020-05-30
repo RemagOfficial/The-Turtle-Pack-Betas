@@ -1,6 +1,6 @@
-added item filters
-added FTB quests
-added FTB GUI library
-started on quests/help menu
-updated "kotlin for forge"
-updated "skyblock items"
+added item filters (beta 4)
+added FTB quests (beta 4)
+added FTB GUI library (beta 4)
+started on quests/help menu (beta 4)
+updated "kotlin for forge" (beta 4)
+updated "skyblock items" (beta 4)
